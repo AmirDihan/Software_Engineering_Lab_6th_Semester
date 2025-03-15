@@ -1,1 +1,1 @@
-# Software_Engineering_Lab_6th_Semester
+Repository of Lab Tasks of Software Development + Software Engineering Course.
